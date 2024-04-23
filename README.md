@@ -2,7 +2,7 @@
 
 A usb dongle project which emulates a keyboard and fires the lock shortcut as soon as move away from your PC. very useful for security sensitive environments.
 
-!\[PC Auto Locker Dongle\](./hardware/pc-hid-autolocker.jpeg)
+![PC Auto Locker Dongle](./hardware/pc-hid-autolocker.jpeg)
 
 ### How to build this project?
 
