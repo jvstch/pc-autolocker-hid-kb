@@ -2,7 +2,7 @@
 
 A usb dongle project which emulates a keyboard and fires the lock shortcut as soon as move away from your PC. very useful for security sensitive environments.
 
-!\[Alt text\](hardware/pc-hid-autolocker.jpeg?raw=true "PC Auto Locker Dongle")
+!\[PC Auto Locker Dongle\](./hardware/pc-hid-autolocker.jpeg)
 
 ### How to build this project?
 
@@ -14,7 +14,7 @@ A usb dongle project which emulates a keyboard and fires the lock shortcut as so
 
 ### Hardware BoM:
 
-1.  ATTINY85 based digistump or clones with Micronucleus bootloader (\<$5)
+1.  ATTINY85 based digistump or clones with Micronucleus bootloader (&lt;$5)
 2.  HC-SR04 Ultrasound distance sensor
 3.  An active buzzer 5v (optional: if you need audio feedback)
 4.  An LED and a 220Ohm resistor (optional: if you need visual feedback)
