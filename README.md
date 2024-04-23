@@ -14,7 +14,11 @@ A usb dongle project which emulates a keyboard and fires the lock shortcut as so
 
 ### Hardware BoM:
 
-1.  ATTINY85 based digistump or clones with Micronucleus bootloader (&lt;$5)
+1.  ATTINY85 based digistump or clones with Micronucleus bootloader (\<$5)
 2.  HC-SR04 Ultrasound distance sensor
 3.  An active buzzer 5v (optional: if you need audio feedback)
 4.  An LED and a 220Ohm resistor (optional: if you need visual feedback)
+
+### Schematic:
+
+![PC Auto Locker Dongle schematic](./hardware/pc-hid-autolocker\_bb.jpeg)
