@@ -21,4 +21,4 @@ A usb dongle project which emulates a keyboard and fires the lock shortcut as so
 
 ### Schematic:
 
-![PC Auto Locker Dongle schematic](./hardware/pc-hid-autolocker_bb.jpeg)
+![PC Auto Locker Dongle schematic](./hardware/pc-autolocker-hid-kb_bb.jpeg)
